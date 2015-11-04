@@ -32,7 +32,7 @@ public class ImageUndistortion{
 		
 		if(caseNo == 0)
 		{
-			filename = "C:/StanfordRepo/CONRAD/src/edu/stanford/rsl/tutorial/dmip/frame32.jpg";
+			filename = "/proj/i5dmip/se06quja/Reconstruction/CONRAD/src/edu/stanford/rsl/tutorial/dmip/frame32.jpg";
 		}
 		else if(caseNo == 1)
 		{

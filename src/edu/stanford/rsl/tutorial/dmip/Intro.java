@@ -32,6 +32,7 @@ public class Intro {
 		int imageSizeY = 256;
 		//
 	//
+		//
 		//Define an image
 		//Hint: Import the package edu.stanford.rsl.conrad.data.numeric.Grid2D
 		//TODO
